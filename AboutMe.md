@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @julHristov;
+- 👋 Hi, I’m Yulian Hristov / @julHristov;
 - 👀 I’m interested in Java & JS;
 - 🌱 I’m currently learning in Software University in Sofia, Bulgaria;
 - 💞️ I’m looking for internship and an opportunity for new job;
